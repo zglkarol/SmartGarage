@@ -34,3 +34,15 @@
 /Users/karor/Desktop/Studia/3ROK/Projekt karor adas/API2/AzureTableApi/bin/Debug/net9.0/Swashbuckle.AspNetCore.Swagger.dll
 /Users/karor/Desktop/Studia/3ROK/Projekt karor adas/API2/AzureTableApi/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerGen.dll
 /Users/karor/Desktop/Studia/3ROK/Projekt karor adas/API2/AzureTableApi/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/karor/Desktop/Studia/3ROK/Projekt karor adas/API2/AzureTableApi/bin/Debug/net9.0/publish/publish/web.config
+/Users/karor/Desktop/Studia/3ROK/Projekt karor adas/API2/AzureTableApi/bin/Debug/net9.0/publish/web.config
+/Users/karor/Desktop/Studia/3ROK/Projekt karor adas/API2/AzureTableApi/bin/Debug/net9.0/publish/appsettings.Development.json
+/Users/karor/Desktop/Studia/3ROK/Projekt karor adas/API2/AzureTableApi/bin/Debug/net9.0/publish/appsettings.json
+/Users/karor/Desktop/Studia/3ROK/Projekt karor adas/API2/AzureTableApi/bin/Debug/net9.0/publish/AzureTableApi.deps.json
+/Users/karor/Desktop/Studia/3ROK/Projekt karor adas/API2/AzureTableApi/bin/Debug/net9.0/publish/AzureTableApi.runtimeconfig.json
+/Users/karor/Desktop/Studia/3ROK/Projekt karor adas/API2/AzureTableApi/bin/Debug/net9.0/publish/AzureTableApi.staticwebassets.endpoints.json
+/Users/karor/Desktop/Studia/3ROK/Projekt karor adas/API2/AzureTableApi/bin/Debug/net9.0/publish/publish/appsettings.Development.json
+/Users/karor/Desktop/Studia/3ROK/Projekt karor adas/API2/AzureTableApi/bin/Debug/net9.0/publish/publish/appsettings.json
+/Users/karor/Desktop/Studia/3ROK/Projekt karor adas/API2/AzureTableApi/bin/Debug/net9.0/publish/publish/AzureTableApi.deps.json
+/Users/karor/Desktop/Studia/3ROK/Projekt karor adas/API2/AzureTableApi/bin/Debug/net9.0/publish/publish/AzureTableApi.runtimeconfig.json
+/Users/karor/Desktop/Studia/3ROK/Projekt karor adas/API2/AzureTableApi/bin/Debug/net9.0/publish/publish/AzureTableApi.staticwebassets.endpoints.json

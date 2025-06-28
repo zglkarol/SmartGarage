@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AzureTableApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5a00fb9aef9157e6c2abc1428c14ea70358d86c2")]
 [assembly: System.Reflection.AssemblyProductAttribute("AzureTableApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AzureTableApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
