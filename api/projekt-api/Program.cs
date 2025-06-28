@@ -16,7 +16,7 @@ builder.Services.AddCors(options =>
     options.AddPolicy("AllowAngularFrontend",
         builder =>
         {
-            builder.WithOrigins("http://localhost:4200")
+            builder.WithOrigins("front-webapp-h3h4fhfrcfg3hrfx.ukwest-01.azurewebsites.net")
                    .AllowAnyMethod()
                    .AllowAnyHeader();
         });
